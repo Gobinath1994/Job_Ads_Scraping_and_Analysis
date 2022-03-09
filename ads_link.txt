@@ -1,0 +1,26 @@
+Location	Link	Pages
+Delhi/NCR(70948)	https://www.naukri.com/jobs-in-delhi-ncr?l=delhi%2Fncr	3547
+Delhi(23904)	https://www.naukri.com/jobs-in-delhi?l=delhi	1195
+Gurgaon(21200)	https://www.naukri.com/jobs-in-gurgaon?l=gurgaon	1060
+Bengaluru/Bangalore(70876)	https://www.naukri.com/jobs-in-bengaluru-bangalore?l=bengaluru%2Fbangalore	3544
+Mumbai(44872)	https://www.naukri.com/jobs-in-mumbai?l=mumbai	2244
+Pune(30958)	https://www.naukri.com/jobs-in-pune?l=pune	1548
+Chennai(27333) 	https://www.naukri.com/jobs-in-chennai?l=chennai	1367
+Kolkata(21997)	https://www.naukri.com/jobs-in-kolkata?l=kolkata	1100
+Noida(17223)	https://www.naukri.com/jobs-in-noida?l=noida	861
+Ahmedabad(14065)	https://www.naukri.com/jobs-in-ahmedabad?l=ahmedabad	703
+Hyderabad/Secunderabad(8338)	https://www.naukri.com/jobs-in-hyderabad-secunderabad?l=hyderabad%20%2F%20secunderabad	417
+Jaipur(7782)	https://www.naukri.com/jobs-in-jaipur?l=jaipur	389
+Chandigarh(6003)	https://www.naukri.com/jobs-in-chandigarh?l=chandigarh	300
+Ernakulam/Kochi/Cochin(4743)	https://www.naukri.com/jobs-in-ernakulam-kochi-cochin?l=ernakulam%20%2F%20kochi%2F%20cochin	237
+Indore(4692)	https://www.naukri.com/jobs-in-indore?l=indore	235
+Vadodara/Baroda(4180)	https://www.naukri.com/jobs-in-vadodara-baroda?l=vadodara%2Fbaroda	209
+Coimbatore(4140)	https://www.naukri.com/jobs-in-coimbatore?l=coimbatore	207
+Nagpur(3910)	https://www.naukri.com/jobs-in-nagpur?l=nagpur	196
+Surat(3828)	https://www.naukri.com/jobs-in-surat?l=surat	191
+Mohali(3610)	
+Lucknow(3446)		
+Navi Mumbai(3437)	
+Ludhiana(2913)	
+Trivandrum(2844)	
+Thane(2611)	
